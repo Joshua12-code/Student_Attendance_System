@@ -36,7 +36,8 @@ This system automates the traditionally manual process of recording attendance a
 ---
 
 ## screenshot
-![Uploading Screenshot 2025-08-06 161139.png…]()
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-06 161139" src="https://github.com/user-attachments/assets/64b30f41-1281-4dfd-a8da-1bccdfd11ee1" />
 
 
 ## 📂 How to Run
