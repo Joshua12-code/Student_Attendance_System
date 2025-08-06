@@ -1,4 +1,4 @@
-# 📘 Student Attendance System
+# 📘 Console based Student Attendance System
 
 ## 📝 Description
 
