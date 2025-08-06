@@ -35,6 +35,10 @@ This system automates the traditionally manual process of recording attendance a
 
 ---
 
+## screenshot
+![Uploading Screenshot 2025-08-06 161139.png…]()
+
+
 ## 📂 How to Run
 
 1. **Compile all Java files:**
